@@ -1,0 +1,50 @@
+body {
+    background: #8E2DE2;
+    background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);
+    background: linear-gradient(to right, #4A00E0, #8E2DE2);
+    padding: 50px;
+    color: white;
+    font-family: 'Sen', sans-serif;
+}
+
+.title {
+    font-size: 85px;
+}
+
+.sub-title {
+    font-size: 25px;
+}
+
+.divider {
+    color: white;
+}
+
+button {
+    border: 10px;
+    width: 60%;
+    height: 60%;
+    padding: 52px 52px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    display: inline-block;
+    color: #101820;
+}
+
+.column {
+    float: left;
+    width: 25%;
+}
+
+
+/* Clear floats after the columns */
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#img-Block {
+    background-color: grey;
+}

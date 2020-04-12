@@ -1,0 +1,45 @@
+body {
+    background: #8E2DE2;
+    background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);
+    background: linear-gradient(to right, #4A00E0, #8E2DE2);
+    margin: 0px;
+    color: white;
+    font-family: 'Sen', sans-serif;
+}
+
+.botui-container {
+    background: #8E2DE2;
+    background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);
+    background: linear-gradient(to right, #4A00E0, #8E2DE2);
+    width: 90%;
+}
+
+.title {
+    font-size: 85px;
+}
+
+.sub-title {
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+#my-botui-app {
+    padding: 5%;
+    font-size: 50px;
+}
+
+.botui-message {
+    font-size: 20px;
+}
+
+.botui-actions-buttons-button {
+    font-size: 18px;
+}
+
+.botui-actions-text-input {
+    color: white;
+    font-size: large;
+}
