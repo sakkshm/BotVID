@@ -2,7 +2,7 @@ body {
     background: #8E2DE2;
     background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);
     background: linear-gradient(to right, #4A00E0, #8E2DE2);
-    padding: 50px;
+    padding: 10%;
     color: white;
     font-family: 'Sen', sans-serif;
 }
@@ -21,7 +21,7 @@ body {
 
 button {
     border: 10px;
-    width: 60%;
+    width: 90%;
     height: 60%;
     padding: 52px 52px;
     text-align: center;
